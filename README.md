@@ -4,7 +4,7 @@ This repository contains :
 
 1. Lab Assignments [Some datasets not available, however some `labX.ipynb`s contains link to dataset]
 2. Projects [Main Course Project, Bonus Project]
-3. Kaggle Competition [Kaggle 1© cant be revealed]
+3. Kaggle Competition [Kaggle 1 cant be revealed]
 
 ## **ML Models Covered in the Course**
 
